@@ -1,5 +1,5 @@
 # Google Apps Script Project: colorschemer
-This repo (colorschemer) was automatically updated on 15 September 2015 11:50:00 BST by GasGit
+This repo (colorschemer) was automatically updated on 28 September 2015 17:44:52 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project colorschemer
@@ -24,8 +24,6 @@ heatMap| heatMap|M37ZcS1M-hAvXPphp4INOX6i_d-phDA33|6|no|no
 mcpher| mcpher|MEQ3tE5y5_cTOAgUbUKSIAiz3TLx7pV4j|66|no|[here](libraries/mcpher "library source")
 heatMap| heatMap|M37ZcS1M-hAvXPphp4INOX6i_d-phDA33|6|no|no
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
