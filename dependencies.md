@@ -1,5 +1,5 @@
 # Google Apps Script Project: colorschemer
-This repo (colorschemer) was automatically updated on 27 July 2016 10:36:26 BST by GasGit
+This repo (colorschemer) was automatically updated on 31 October 2018 11:41:30 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project colorschemer
@@ -13,17 +13,20 @@ common| server_js
 scriptdbSpecific| server_js
 forPublishing| server_js
 parseSpecific| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-heatMap| heatMap|M37ZcS1M-hAvXPphp4INOX6i_d-phDA33|6|no|no
-mcpher| mcpher|MEQ3tE5y5_cTOAgUbUKSIAiz3TLx7pV4j|66|no|[here](libraries/mcpher "library source")
+heatMap| heatMap|1AgDoYBAT5DA79CJuhEOHLp4cM53vuZ-u7qZJllWm7D7gFaVjIAu5clfT|6|no|no
+mcpher| mcpher|1hhJ8M6z99XccL8WRq2d24-pWGwhq8EfYNaQIQV0CEe5gE1HbBoF4X9W_|66|no|[here](libraries/mcpher "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-heatMap| heatMap|M37ZcS1M-hAvXPphp4INOX6i_d-phDA33|6|no|no
-mcpher| mcpher|MEQ3tE5y5_cTOAgUbUKSIAiz3TLx7pV4j|66|no|[here](libraries/mcpher "library source")
+heatMap| heatMap|1AgDoYBAT5DA79CJuhEOHLp4cM53vuZ-u7qZJllWm7D7gFaVjIAu5clfT|6|no|no
+mcpher| mcpher|1hhJ8M6z99XccL8WRq2d24-pWGwhq8EfYNaQIQV0CEe5gE1HbBoF4X9W_|66|no|[here](libraries/mcpher "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
