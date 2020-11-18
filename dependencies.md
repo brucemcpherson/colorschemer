@@ -1,7 +1,7 @@
 # Google Apps Script Project: colorschemer
 This repo (colorschemer) was automatically updated on 13 January 2020 17:44:20 GMT by GasGit
 
-For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
+For more information see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/getting-your-apps-scripts-to-github/ "desktop liberation") or [contact me on Gitter](https://gitter.im/desktopliberation/community "Bruce McPherson - GDE")
 ## Details for Apps Script project colorschemer
 Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [colorschemer is here](https://script.google.com/d/1Kc8WS6DXhPlodBrUNMviBtBAQfSCn9FYUeMHKKehDeWbY5jSSLtYeFa4/edit?usp=sharing "open in the GAS IDE")
